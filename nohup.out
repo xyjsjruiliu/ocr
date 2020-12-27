@@ -1,0 +1,3584 @@
+device: cuda:0
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:8087/ (Press CTRL+C to quit)
+192.168.80.47 - - [26/Oct/2020 14:18:49] "[37mGET /detectImg?word=金阳 HTTP/1.1[0m" 200 -
+192.168.80.47 - - [26/Oct/2020 14:19:26] "[37mGET /detectImg?word=韦小宝 HTTP/1.1[0m" 200 -
+192.168.80.47 - - [26/Oct/2020 14:19:37] "[37mGET /detectImg?word=韦小宝 HTTP/1.1[0m" 200 -
+192.168.80.47 - - [26/Oct/2020 14:19:38] "[37mGET /detectImg?word=韦小宝 HTTP/1.1[0m" 200 -
+192.168.80.47 - - [26/Oct/2020 14:21:34] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.80.47 - - [26/Oct/2020 14:22:10] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+/data/liurui/OpticalCharacterRecognition/upload_image/8e476594583b496cbe630023e464fcde.jpg
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/8e476594583b496cbe630023e464fcde.jpg
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+results: 金阳 [34, 60, 81, 129]
+/data/liurui/OpticalCharacterRecognition/upload_image/322b75365ec8e14d926b7e961db448bd.jpg
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/322b75365ec8e14d926b7e961db448bd.jpg
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+results: 韦小宝 [39, 65, 95, 166]
+/data/liurui/OpticalCharacterRecognition/upload_image/322b75365ec8e14d926b7e961db448bd.jpg
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/322b75365ec8e14d926b7e961db448bd.jpg
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+results: 韦小宝 [39, 65, 95, 166]
+/data/liurui/OpticalCharacterRecognition/upload_image/322b75365ec8e14d926b7e961db448bd.jpg
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/322b75365ec8e14d926b7e961db448bd.jpg
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+results: 韦小宝 [39, 65, 95, 166]
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg
+predit on image: save_img/47.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg
+predit on image: save_img/47.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png192.168.80.47 - - [26/Oct/2020 14:22:45] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.80.47 - - [26/Oct/2020 14:22:48] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 14:33:21] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 14:58:00] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg
+predit on image: save_img/47.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg
+predit on image: save_img/47.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg192.168.220.19 - - [26/Oct/2020 14:58:57] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:02:05] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:03:22] "[37mGET /detectImg?word=苹果 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:03:35] "[37mGET /detectImg?word=API HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:11:52] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:26:48] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png192.168.220.19 - - [26/Oct/2020 15:27:07] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:27:29] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:32] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:39] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:40] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]192.168.220.19 - - [26/Oct/2020 15:29:41] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:42] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:43] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:44] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:45] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg192.168.220.19 - - [26/Oct/2020 15:29:45] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:46] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:47] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:48] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:48] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg192.168.220.19 - - [26/Oct/2020 15:29:49] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:50] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:51] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:51] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:29:52] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg192.168.220.19 - - [26/Oct/2020 15:47:08] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:52:50] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:52:52] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 15:52:53] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 16:04:20] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]192.168.220.19 - - [26/Oct/2020 16:08:46] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 16:08:49] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 16:08:50] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 16:08:51] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [26/Oct/2020 16:08:52] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日192.168.220.19 - - [26/Oct/2020 16:13:09] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 10:58:10] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 10:58:12] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 10:58:39] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 11:02:46] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+ [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg192.168.220.19 - - [27/Oct/2020 11:03:51] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 11:03:52] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 11:05:30] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 11:12:30] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 11:19:43] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg192.168.220.19 - - [27/Oct/2020 11:25:49] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 11:25:54] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 11:25:56] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 17:42:45] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Oct/2020 17:42:46] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日192.168.220.19 - - [27/Oct/2020 18:05:27] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:43:54] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:05] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:06] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:08] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+ [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg192.168.220.19 - - [28/Oct/2020 11:45:08] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:09] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:10] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:11] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:15] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]192.168.220.19 - - [28/Oct/2020 11:45:17] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:20] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:21] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:24] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [28/Oct/2020 11:45:25] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/微信截图_20201026143029.png
+predit on image: save_img/0.jpg
+results: 2020年0月25日 [1010, 1032, 13, 127]
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [903, 925, 12, 126]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年0月26日 [797, 819, 12, 126]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年0月26日 [692, 713, 12, 126]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+results: 2020年0月26日 [586, 607, 12, 126]
+predit on image: save_img/13.jpg
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+results: 2020年0月26日 [480, 502, 12, 126]
+predit on image: save_img/16.jpg
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+results: 2020年0月26日 [375, 396, 12, 127]
+predit on image: save_img/19.jpg
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg192.168.220.19 - - [28/Oct/2020 13:04:23] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+device: cuda:0
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:8087/ (Press CTRL+C to quit)
+192.168.220.19 - - [27/Dec/2020 15:43:35] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Dec/2020 15:43:40] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+192.168.220.19 - - [27/Dec/2020 15:43:42] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg
+predit on image: save_img/47.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg
+predit on image: save_img/47.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg
+predit on image: save_img/47.jpg
+/data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: /data/liurui/OpticalCharacterRecognition/upload_image/企业微信20201026-142040@2x.png
+predit on image: save_img/0.jpg
+predit on image: save_img/1.jpg
+predit on image: save_img/2.jpg
+predit on image: save_img/3.jpg
+predit on image: save_img/4.jpg
+predit on image: save_img/5.jpg
+predit on image: save_img/6.jpg
+results: 2020年0月25日 [1856, 1891, 25, 245]
+predit on image: save_img/7.jpg
+predit on image: save_img/8.jpg
+results: 2020年10月26日 [1645, 1679, 25, 245]
+predit on image: save_img/9.jpg
+predit on image: save_img/10.jpg
+results: 2020年10月26日 [1434, 1468, 25, 247]
+predit on image: save_img/11.jpg
+predit on image: save_img/12.jpg
+predit on image: save_img/13.jpg
+results: 2020年10月26日 [1220, 1255, 25, 247]
+predit on image: save_img/14.jpg
+predit on image: save_img/15.jpg
+predit on image: save_img/16.jpg
+results: 2020年0月26日 [1009, 1044, 25, 245]
+predit on image: save_img/17.jpg
+predit on image: save_img/18.jpg
+predit on image: save_img/19.jpg
+results: 2020年10月26日 [798, 833, 25, 247]
+predit on image: save_img/20.jpg
+predit on image: save_img/21.jpg
+predit on image: save_img/22.jpg
+predit on image: save_img/23.jpg
+predit on image: save_img/24.jpg
+predit on image: save_img/25.jpg
+predit on image: save_img/26.jpg
+predit on image: save_img/27.jpg
+predit on image: save_img/28.jpg
+predit on image: save_img/29.jpg
+predit on image: save_img/30.jpg
+predit on image: save_img/31.jpg
+predit on image: save_img/32.jpg
+predit on image: save_img/33.jpg
+predit on image: save_img/34.jpg
+predit on image: save_img/35.jpg
+predit on image: save_img/36.jpg
+predit on image: save_img/37.jpg
+predit on image: save_img/38.jpg
+predit on image: save_img/39.jpg
+predit on image: save_img/40.jpg
+predit on image: save_img/41.jpg
+predit on image: save_img/42.jpg
+predit on image: save_img/43.jpg
+predit on image: save_img/44.jpg
+predit on image: save_img/45.jpg
+predit on image: save_img/46.jpg192.168.220.19 - - [27/Dec/2020 15:43:44] "[37mGET /detectImg?word=2020 HTTP/1.1[0m" 200 -
